@@ -1,0 +1,26 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+
+.navbar{
+
+    background-color: #20235b;
+}
+.navbar-brand {
+    font-size:34px; /* Adjust size as needed */  
+    font-weight: bold;  
+    background: linear-gradient(to right, #af4a31, #feb47b); /* Your gradient colors */  
+    -webkit-background-clip: text; /* Clip the background to text for Webkit browsers */  
+    -moz-background-clip: text; /* Firefox support */  
+    color: transparent; /* Makes the text transparent to show the gradient */  
+    background-clip: text; /* Standard syntax */  
+    }
+    .navbar-nav{
+        display: inline-flex;
+        align-items: end;
+        justify-content: space-around;
+    }
+body{
+    background-image:linear-gradient(to right, #0b0f5f, #32356e);;
+}

@@ -1,0 +1,37 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #05094a, #515487);
+    ;
+}
+
+.rishika {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    border: 5px solid #43456e;
+
+
+}
+
+#img-txt {
+    color: white;
+    font-size: 18px;
+
+}
+
+.col-md-8 {
+    width: 100%;
+    height: 500px;
+    border: 4x solid rgb(94, 88, 88);
+    border-radius: 25px;
+    background-image: linear-gradient(to right, #6663b2, #171081);
+    color: rgb(237, 222, 222);
+}
+.para{
+    text-shadow: 2px 2px 4px solid black;
+}
